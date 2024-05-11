@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, We are </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RRHosting;A+hosting+service+based+in+cyprus)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RRHosting;a+hosting+service+based+in+cyprus" alt="Typing SVG" /></a>
 
 - 🔭 Our main part [RRHosting Server Business!](https://Buy.rrhosting.eu)
 
