@@ -1,29 +1,25 @@
 <h1 align="center">Hi 👋, We are </h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RRHosting;a+hosting+service+based+in+cyprus" alt="Typing SVG" /></a>
 
-- 🔭 Our main part [RRHosting Server Business!](https://Buy.rrhosting.eu)
+- 🔭 Our main part [RRHosting Server Hosting!](https://rrhosting.eu)
 
 - 🌱 We are currently working on **The international launch of RRHosting!**
 
-- 👯 We have a side project [B0LT!](https://bot.rrhosting.eu)
+- 👨‍💻 You can find our ToS here [https://buy.rrhosting.eu/tos](https://rrhosting.eu/tos)
 
-- 🤝 We cooperate with several servers, one is [Starlight Empire!](https://discord.gg/AGndGMbNBX)
-
-- 👨‍💻 You can find our ToS here [https://buy.rrhosting.eu/tos](https://buy.rrhosting.eu/tos)
-
-- 📝 We publish current information in the Discord [https://discord.gg/sTjhM7m9gd](https://discord.gg/sTjhM7m9gd)
+- 📝 We publish current information in the Discord [https://discord.com/invite/fhRp7cSkmm](https://discord.com/invite/fhRp7cSkmm)
 
 - 💬 Just ask us **In the Discord!**
 
-- 📫 How to reach us **Contact@rrhosting.eu**
+- 📫 How to reach us **Contact@rrhosting.eu or in the Discord!**
 
-- 📄 Become a customer! [https://buy.rrhosting.eu/register](https://buy.rrhosting.eu/register)
+- 📄 Become a customer! [https://discord.com](https://discord.com/invite/fhRp7cSkmm)
 
 - ⚡ Fun fact **We are cheaper than many large hosting services**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/sTjhM7m9gd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sTjhM7m9gd" height="30" width="40" /></a>
+<a href="https://discord.com/invite/fhRp7cSkmm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sTjhM7m9gd" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
