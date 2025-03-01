@@ -3,15 +3,15 @@
 
 - 🔭 Our main part [RRHosting Server Hosting!](https://rrhosting.eu)
 
-- 🌱 We are currently working on **The international launch of RRHosting!**
+- 🌱 We are launched as a hosting company where every server is **free!**
 
-- 👨‍💻 You can find our ToS here [https://buy.rrhosting.eu/tos](https://rrhosting.eu/tos)
+- 👨‍💻 You can find our ToS here [https://rrhosting.eu/tos](https://rrhosting.eu/tos)
 
 - 📝 We publish current information in the Discord [https://discord.com/invite/fhRp7cSkmm](https://discord.com/invite/fhRp7cSkmm)
 
 - 💬 Just ask us **In the Discord!**
 
-- 📫 How to reach us **Contact@rrhosting.eu or in the Discord!**
+- 📫 How to reach us in our Discord!**
 
 - 📄 Become a customer! [https://discord.com](https://discord.com/invite/fhRp7cSkmm)
 
