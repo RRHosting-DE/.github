@@ -15,7 +15,7 @@
 
 - 📄 Become a customer! [https://discord.com](https://discord.com/invite/fhRp7cSkmm)
 
-- ⚡ Fun fact **We are cheaper than many large hosting services**
+- ⚡ Fun fact **We are Free (;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
