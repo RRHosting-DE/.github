@@ -1,25 +1,21 @@
 <h1 align="center">Hi 👋, We are </h1>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=RRHosting;A+hosting+service+based+in+cyprus)](https://git.io/typing-svg)
 
-- 🔭 Our main part [RRHosting Server Business!](https://Buy.rrhosting.eu)
+- 🔭 Our main part [RRHosting Server Business!](https://rrhosting.eu)
 
 - 🌱 We are currently working on **The international launch of RRHosting!**
 
-- 👯 We have a side project [B0LT!](https://bot.rrhosting.eu)
+- 👨‍💻 You can find our ToS here [https://rrhosting.eu/tos](https://rrhosting.eu/tos)
 
-- 🤝 We cooperate with several servers, one is [Starlight Empire!](https://discord.gg/AGndGMbNBX)
-
-- 👨‍💻 You can find our ToS here [https://buy.rrhosting.eu/tos](https://buy.rrhosting.eu/tos)
-
-- 📝 We publish current information in the Discord [https://discord.gg/sTjhM7m9gd](https://discord.gg/sTjhM7m9gd)
+- 📝 We publish current information in the Discord [https://discord.gg/fhRp7cSkmm](https://discord.gg/fhRp7cSkmm)
 
 - 💬 Just ask us **In the Discord!**
 
 - 📫 How to reach us **Contact@rrhosting.eu**
 
-- 📄 Become a customer! [https://buy.rrhosting.eu/register](https://buy.rrhosting.eu/register)
+- 📄 Become a customer! [Discord](https://discord.gg/fhRp7cSkmm)
 
-- ⚡ Fun fact **We are cheaper than many large hosting services**
+- ⚡ Fun fact **We are Free (;**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
